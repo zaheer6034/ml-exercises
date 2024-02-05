@@ -1,4 +1,4 @@
-This repository contains a **machine learning** exercise focusing on the implementation of **Linear Regression **and **Decision Tree Classifier** algorithms. Through practical demonstrations, this project aims to provide insights into the fundamental concepts of predictive modeling and classification tasks in machine learning.
+This repository contains a **machine learning** exercise focusing on the implementation of **Linear Regression** and **Decision Tree Classifier** algorithms. Through practical demonstrations, this project aims to provide insights into the fundamental concepts of predictive modeling and classification tasks in machine learning.
 
 🌱 **Key Features:**
 
